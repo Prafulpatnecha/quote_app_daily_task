@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-https://github.com/Prafulpatnecha/quote_app_daily_task/assets/144161200/30f437fc-56b4-4a75-8489-0071410b3914
+https://github.com/Prafulpatnecha/quote_app_daily_task/assets/144161200/b9b79d4a-9840-42d2-b33e-a7b3f002bd16
 
 
 
