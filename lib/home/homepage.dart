@@ -11,9 +11,11 @@ class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
-        alignment: Alignment.center,
-        child: OutlinedButton(onPressed: () => showDialogBox(context), child: const Text('Show Dialog Box')),
+      body: SizedBox(
+        child: Container(
+          alignment: Alignment.center,
+          child: OutlinedButton(onPressed: () => showDialogBox(context), child: const Text('Show Dialog Box')),
+        ),
       ),
     );
   }
